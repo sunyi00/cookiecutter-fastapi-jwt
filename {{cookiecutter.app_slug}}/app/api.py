@@ -19,8 +19,8 @@ fake_users_db = {
     }
 }
 
-app = FastAPI()
+api = FastAPI()
 
-app.include_router(jwt_routes.router)
+api.include_router(jwt_routes.router)
 
-app.include_router(user_routes.router)
+api.include_router(user_routes.router)
