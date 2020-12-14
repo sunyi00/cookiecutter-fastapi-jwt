@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-from routes import jwt_routes, user_routes
+from app.routes import jwt_routes, user_routes
 
 # to get a string like this run:
 # openssl rand -hex 32

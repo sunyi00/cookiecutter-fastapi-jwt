@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends
 
-from models import user_models
-from utils import jwt_utils
+from app.models import user_models
+from app.utils import jwt_utils
 
 
 router = APIRouter()
