@@ -1,4 +1,0 @@
-{
-  "app_name": "",
-  "app_slug": "{{ cookiecutter.app_name.lower().replace(' ', '_') }}"
-}
