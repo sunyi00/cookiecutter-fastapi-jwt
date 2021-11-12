@@ -36,7 +36,7 @@ rsa==4.7.2
 six==1.16.0
 starlette==0.17.0
 toml==0.10.2
-typed-ast==1.4.3
+typed-ast==1.5.0
 typing-extensions==3.10.0.2
 urllib3==1.26.7
 uvloop==0.16.0
