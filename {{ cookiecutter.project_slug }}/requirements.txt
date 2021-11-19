@@ -8,7 +8,7 @@ click==8.0.3
 cryptography==3.4.8
 ecdsa==0.17.0
 fastapi==0.70.0
-flake8==3.9.2
+flake8==4.0.1
 gunicorn==20.1.0
 h11==0.12.0
 httptools==0.3.0
