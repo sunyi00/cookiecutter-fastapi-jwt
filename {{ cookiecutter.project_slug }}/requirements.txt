@@ -30,7 +30,7 @@ pyparsing==3.0.8
 pytest==6.2.5
 python-jose==3.3.0
 python-multipart==0.0.5
-regex==2021.11.10
+regex==2022.4.24
 requests==2.27.1
 rsa==4.8
 six==1.16.0
