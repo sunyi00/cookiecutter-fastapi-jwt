@@ -5,7 +5,7 @@ certifi==2021.10.8
 cffi==1.15.0
 chardet==4.0.0
 click==8.1.2
-cryptography==35.0.0
+cryptography==36.0.2
 ecdsa==0.17.0
 fastapi==0.75.2
 flake8==4.0.1
