@@ -38,6 +38,6 @@ starlette==0.20.4
 toml==0.10.2
 typed-ast==1.5.4
 typing-extensions==4.3.0
-urllib3==1.26.9
+urllib3==1.26.10
 uvloop==0.16.0
 uvicorn==0.18.2
